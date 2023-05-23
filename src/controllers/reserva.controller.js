@@ -29,6 +29,12 @@ const deleteById = (req,res) => {
         })
     }
 }
+ const crearReserva = (req,res) => {
+    const nuevaReserva = req.body.cantPersonas
+    if(cantPersonas < 1 || cantPersonas >10){
+        
+    }
 
+ }
 
-module.exports = {getAll, getReservaById,deleteById}
+module.exports = {getAll, getReservaById,deleteById, crearReserva}

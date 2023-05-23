@@ -6,3 +6,4 @@
 * me falto el post de reservas.
 * me falto el put de vehiculos.
 * me falto el post de vehiculos.
+* tuve problemas con esos metodos.

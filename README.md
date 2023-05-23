@@ -3,4 +3,6 @@
 ## DNI: 36.022.908
 ## Consideraciones especiales
 
-*
+* me falto el post de reservas.
+* me falto el put de vehiculos.
+* me falto el post de vehiculos.
